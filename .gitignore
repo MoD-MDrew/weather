@@ -1,0 +1,7 @@
+# Our Gitignore file.
+*.png
+data/
+
+.nfs*
+*.swap-
+*~
